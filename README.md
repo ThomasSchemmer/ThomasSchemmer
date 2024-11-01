@@ -1,6 +1,7 @@
 Hi, I'm Thomas Schemmer<br>
-I'm doing my Phd in Communication Science at the RWTH Aachen University<br>
+Currently developing my own game: <a href="https://github.com/ThomasSchemmer/Bestagon">Bestagon</a>, a 4x roguelite deckbuilder.
 Into shader (pbr/unlit/compute) and procedural generation. Would like to go deeper into Graphics Rendering
+
 <br>
 <br>
 For Shader examples, go to my gists https://gist.github.com/ThomasSchemmer<br>
